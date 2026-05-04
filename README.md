@@ -7,8 +7,7 @@ Upload any image, apply visual filters in real time, and download the result —
 
 ## 📸 Screenshot
 
-> Example: `<img width="1440" height="811" alt="image" src="https://github.com/user-attachments/assets/656d9a4f-0f04-4cfb-ae7e-deae1e402eb9" />
-`
+> Example: <img width="1440" height="811" alt="image" src="https://github.com/user-attachments/assets/656d9a4f-0f04-4cfb-ae7e-deae1e402eb9" />
 
 ---
 
