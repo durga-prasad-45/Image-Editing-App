@@ -69,12 +69,6 @@ image_editor/
 ├── requirements.txt # Python dependencies
 └── README.md        # This file
 ```
-
----
-
-## 🎬 Demo Video 
-> Example: [Watch demo on YouTube](https://youtu.be/your-link-here)
-
 ---
 
 ## 📝 How It Works
