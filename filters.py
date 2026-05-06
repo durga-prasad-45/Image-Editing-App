@@ -61,7 +61,6 @@ def apply_all_filters(
 
     if gray_scale:
         result = apply_grayscale(result)
-
     result = apply_brightness(result, brightness_beta)
     result = apply_contrast(result, contrast_alpha)
     result = apply_blur(result, blur_ksize)
